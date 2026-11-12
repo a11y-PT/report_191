@@ -1,5 +1,5 @@
 ---
-website: "Hidrografico"          # Entre as aspas escreve o nome do website
+website: "Instituto Hidrográfico"          # Entre as aspas escreve o nome do website
 date: "23/09/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://www.hidrografico.pt"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://www.hidrografico.pt/paginas-genericas/footer/declaracao-de-acessibilidade-e-usabilidade/" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
